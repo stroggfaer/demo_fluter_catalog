@@ -14,7 +14,7 @@
 Профиль<br />
 <img src="/images/4.jpg" width=200px>
 <br />
-Гарфика<br />
+Графика<br />
 <img src="/images/5.jpg" width=200px>
 <br />
 ## Getting Started
