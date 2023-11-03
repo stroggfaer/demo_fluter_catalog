@@ -1,7 +1,11 @@
-# my_catalog
+# my catalog flutter
 
-my_catalog
-
+Примеры код на флаторе
+![Каталог](/images/1.jpg)
+![Список товаров](/images/2.jpg)
+![Корзина](/images/3.jpg)
+![Профиль](/images/4.jpg)
+![Гарфика](/images/5.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
