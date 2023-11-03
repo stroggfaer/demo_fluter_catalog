@@ -1,0 +1,52 @@
+{
+  "app_bar":
+  {
+    "title": "العنوان\": \"مرحبًا بك في الصفحة الرئيسية"
+  },
+  "button":
+  {
+    "cancel": "Cancel",
+    "change_language": "Change Language"
+  },
+  "language":
+  {
+    "name":
+    {
+      "ru": "الروسية",
+      "en": "إنجليزي",
+      "zh": "الصين",
+      "ar": "العربية"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection":
+    {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  },
+  "plural":
+  {
+    "demo":
+    {
+      "zero": "الرجاء البدء في الضغط على زر\" زائد",
+      "one": "الرجاء البدء في الضغط على زر\" زائد",
+      "two": "الرجاء البدء في الضغط على زر\" زائد",
+      "other": "لقد ضغطت على الزر {{value}} مرة."
+    }
+  },
+  "default":
+  {
+    "result": "النتيجة",
+    "reset": "إعادة تعيين",
+    "load_test": "اختبار التحميل",
+    "test_passed": "تم اجتياز الاختبار",
+    "reset_cache": " اجتياز",
+    "cleared_cache": "تم مسح ذاكرة التخزين المؤقت!!",
+    "alert_test": "التبديل",
+    "user": "تم",
+    "switch_to": "التخزين",
+    "online": "تم",
+    "demo_catalog": "النتيجة",
+    "other": "لقد ضغطت على الزر {{value}} مرة."
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "在线演示目录",
+    "helloWorld": "你好世界",
+    "catalog":"目录",
+    "settings_products": "产品设置",
+    "stream_local": "本地流",
+    "flow_exchange_rate": "流量汇率",
+    "basket": "篮子",
+    "language": "语言",
+    "profile": "个人资料",
+    "settings": "设置",
+    "stream_control": "流控制",
+    "stream_network": "流网络",
+    "statistics":"统计"
+}

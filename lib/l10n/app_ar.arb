@@ -1,0 +1,15 @@
+{
+    "title": "الكتالوج التجريبي عبر الإنترنت",
+    "helloWorld": "مرحبا بالعالم!",
+    "catalog":"الكتالوج",
+    "settings_products": "إعدادات المنتج",
+    "stream_local": "دفق محلي",
+    "flow_exchange_rate": "تدفق سعر الصرف",
+    "basket": "سلة",
+    "language": "اللغة",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "stream_control": "التحكم في البث",
+    "stream_network": "تيار الشبكة",
+    "statistics":"إحصائيات"
+}

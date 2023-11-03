@@ -1,0 +1,52 @@
+{
+  "app_bar":
+  {
+    "title": "Welcome to the home page"
+  },
+  "button":
+  {
+    "cancel": "Cancel",
+    "change_language": "Change Language"
+  },
+  "language":
+  {
+    "name":
+    {
+      "ru": "Russian",
+      "en": "English",
+      "zh": "China",
+      "ar": "Arabic"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection":
+    {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  },
+  "plural":
+  {
+    "demo":
+    {
+      "zero": "Please start pushing the 'plus' button.",
+      "one": "You have pushed the button one time.",
+      "two": "You have pushed the button two times.",
+      "other": "You have pushed the button {{value}} times."
+    }
+  },
+  "default":
+  {
+    "result": "Result",
+    "reset": "Reset",
+    "load_test": "Load test",
+    "test_passed": "Test Passed",
+    "reset_cache": "Clear cache",
+    "cleared_cache": "Cache cleared!",
+    "alert_test": "Alert test",
+    "user": "User",
+    "switch_to": "switch to",
+    "online": "Online",
+    "demo_catalog": "Demo catalog",
+    "other": "You have pushed the button {{value}} раз."
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Каталог онфлан демо",
+    "title_1": "Каталог онфлан демо",
+    "helloWorld": "Привет, мир!",
+    "catalog":"Каталог",
+    "settings_products": "Настройки продуктов",
+    "stream_local": "Локальный поток",
+    "flow_exchange_rate": "Поток биржа курс",
+    "basket": "Корзина",
+    "language": "Язык",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "stream_control": "Управление потоком",
+    "stream_network": "Потоковая сеть",
+    "statistics":"Статистика",
+    "appBar": "{rate}",
+    "@appBar": {
+      "placeholders": {
+            "rate": {
+                     "type":"String"
+                    }
+      }
+
+     }
+}

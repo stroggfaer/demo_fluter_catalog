@@ -1,0 +1,52 @@
+{
+  "app_bar":
+  {
+    "title": "欢迎来到首页"
+  },
+  "button":
+  {
+    "cancel": "Cancel",
+    "change_language": "Change Language"
+  },
+  "language":
+  {
+    "name":
+    {
+      "ru": "俄语",
+      "en": "英语",
+      "zh": "中国",
+      "ar": "阿拉伯语"
+    },
+    "selected_message": "Currently selected language is {language}",
+    "selection":
+    {
+      "message": "Please select a language from the list",
+      "title": "Language Selection"
+    }
+  },
+  "plural":
+  {
+    "demo":
+    {
+      "zero": "请开始按下‘加号’按钮。",
+      "one": "你已经按下了一次按钮。",
+      "two": "你已经按下了两次按钮。",
+      "other": "您已按下按钮 {{value}} 次。"
+    }
+  },
+  "default":
+  {
+    "result": "结果",
+    "reset": "重置",
+    "load_test": "负载测试",
+    "test_passed": "测试通过",
+    "reset_cache": "清除缓存",
+    "cleared_cache": "缓存已清除!",
+    "alert_test": "警报测试",
+    "user": "用户",
+    "switch_to": "切换到",
+    "online": "用户",
+    "demo_catalog": "负载测试",
+    "other": "您已按下按钮 {{value}} 次"
+  }
+}
